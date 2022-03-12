@@ -1,0 +1,16 @@
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\DigitalSignature.exe
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\DigitalSignature.deps.json
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\DigitalSignature.runtimeconfig.json
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\DigitalSignature.runtimeconfig.dev.json
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\DigitalSignature.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\ref\DigitalSignature.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\bin\Debug\net5.0\DigitalSignature.pdb
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.csproj.AssemblyReference.cache
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.AssemblyInfoInputs.cache
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.AssemblyInfo.cs
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.csproj.CoreCompileInputs.cache
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\ref\DigitalSignature.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.pdb
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\DigitalSignature\obj\Debug\net5.0\DigitalSignature.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\RSA.exe
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\RSA.deps.json
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\RSA.runtimeconfig.json
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\RSA.runtimeconfig.dev.json
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\RSA.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\ref\RSA.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\bin\Debug\net5.0\RSA.pdb
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.csproj.AssemblyReference.cache
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.AssemblyInfoInputs.cache
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.AssemblyInfo.cs
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.csproj.CoreCompileInputs.cache
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\ref\RSA.dll
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.pdb
+C:\Users\sahilrzayev\source\repos\KriptolojiOdev\RSA\obj\Debug\net5.0\RSA.genruntimeconfig.cache
